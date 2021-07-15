@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-center;
+    justify-content: center;
     height: 100%;
 }
 
@@ -20,10 +20,10 @@ body {
     font-size: 80%;
 }
 
-#container {
+.container {
     width: 800px;
-    height: 800px;
-    background:#202124ff;
+    height: 500px;
+    background:pink ;
     display: flex;
     flex-direction: column;
     justify-content: center;
