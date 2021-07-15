@@ -73,9 +73,14 @@ body {
 
 #languages{
     color: rgb(246, 240, 240);
-    text-decoration: none;
+    font-size: 13px;
 }
 
 a {
+    text-decoration: none;
+    color: #789cd5ff;
+}
 
+a:hover {
+    text-decoration: underline;
 }
